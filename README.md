@@ -1,2 +1,2 @@
-# ensemble-convolutional-linearmodel
-Ensembled Convolutional Linear Model 
+# ensemble-convolutional-linearmodel 
+
